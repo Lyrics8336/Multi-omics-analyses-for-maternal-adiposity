@@ -50,3 +50,7 @@ Running the scripts will generate high-resolution visualization files or plot th
 Total run time for all figures (Fig 2-6): < 5 minutes on a standard desktop computer.
 
 
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+
